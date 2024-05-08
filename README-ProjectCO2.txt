@@ -1,4 +1,4 @@
-Examination of the technical features of cars that influence CO2 emissions
+Project Name: Examination of the technical features of cars that influence CO2 emissions
 Authors: Christian Erdmann, Pinelopi Moutesidi, Sanjana Singh
 
 Scope of the project
@@ -11,3 +11,5 @@ final size of 154997 entries. These data can be found in the file under the name
 
 Analysis
 The analysis was performed at two steps. Firstly, several data preprocessing steps were performed; the code for this can be found in the Jupyter Source file with the name "CO2_data preprocessing.ipynb" and the resulting data can be found in the file "CO2_2019_preprocessed.csv" in the folder "Data". These data can be directly introduced to the second step of the analysis, which is the application of Machine Learning algorithms. The code for this part of the analysis can be found in the file "CO2 project_Machine Learning models.ipynb".
+
+Note: This project was completed as part of the requirements for certification by DataScientest. The code provided in this repository represents only a portion of the total project code output, primarily authored by Pinelopi Moutesidi.
