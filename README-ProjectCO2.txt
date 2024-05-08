@@ -6,7 +6,7 @@ The project seeks to conduct a comparative analysis of CO2 emissions originating
 
 Data Selection
 Datasets containing information on CO2 emissions, various technical characteristics of European vehicles, and details about their manufacturers were acquired from the website of the European Environment Agency (https://www.eea.europa.eu/en/datahub/datahubitem-view/fa8b1229-3db6-495d-b18e-9c9b3267c02b?activeAccordion=1086728). The analysis was performed with the dataset from the year 2019.
-Due to limitations in computational power, only 1/100 of the dataset was chosen as the working dataset for subsequent analysis, with a 
+Due to limitations in computational power, only a random fraction of 1/100 of the dataset was chosen as the working dataset for subsequent analysis, with a 
 final size of 154997 entries. These data can be found in the file under the name "CO2_2019.csv" in the folder "Data".
 
 Analysis
